@@ -1,0 +1,39 @@
+:root {
+    --main-bg-color: #2353;
+    --header-footer-bg: #444;
+    --text-color: #333;
+    --link-color: white;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--main-bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+header, footer {
+    background-color: var(--header-footer-bg);
+    color: var(--link-color);
+}
+
+/* Add a media query for responsiveness */
+@media (max-width: 768px) {
+    header nav ul li {
+        display: block;
+        margin-bottom: 0.5em;
+    }
+
+    main, aside {
+        margin: 1em;
+    }
+}
+
+/* Add smooth transitions */
+header nav ul li a, footer a {
+    transition: color 0.3s ease;
+}
+
+header nav ul li a:hover, footer a:hover {
+    color: #ddd;
+}
