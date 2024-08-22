@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="360 Bets - Your hub for sports betting insights and statistics.">
+    <title>360 Bets - Home</title>
+    <link rel="stylesheet" href="360BETS.CSS">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Oswald"> <!-- Specialty fonts -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to 360 Bets</h1>
+        <nav>
+            <ul>
+                <li><a href="360BetsHP.html">Home</a></li>
+                <li><a href="360Betsplayer-stats.html">Player Stats</a></li>
+                <li><a href="360projected-lines.html">Projected Lines</a></li>
+                <li><a href="360contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Featured Player: LeBron James</h2>
+            <img src="https://i.pinimg.com/736x/63/20/e3/6320e31efa6a38a58aa8490346d2c8fc.jpg" alt="LeBron James"> <!-- Image -->
+            <p>Check out the latest stats and projections for LeBron James.</p>
+            <p>Projected Rebounds: 6.0 against the Phoenix Suns</p>
+            <p>Last 3 Games against the Suns:</p>
+            <ul>
+                <li>Game 1: 8 rebounds</li>
+                <li>Game 2: 7 rebounds</li>
+                <li>Game 3: 6 rebounds</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 360 Bets. All rights reserved.</p>
+    </footer>
+</body>
+</html>
