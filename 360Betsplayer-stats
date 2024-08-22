@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="360 Bets - Player statistics and performance insights.">
+    <title>360 Bets - Player Stats</title>
+    <link rel="stylesheet" href="360BETS.CSS">
+</head>
+<body>
+    <header>
+        <h1>Player Statistics</h1>
+        <nav>
+            <ul>
+                <li><a href="360BetsHP.html">Home</a></li>
+                <li><a href="360Betsplayer-stats.html">Player Stats</a></li>
+                <li><a href="360projected-lines.html">Projected Lines</a></li>
+                <li><a href="360contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>LeBron James - Recent Stats</h2>
+            <table>
+                <tr>
+                    <th>Game</th>
+                    <th>Points</th>
+                    <th>Rebounds</th>
+                    <th>Assists</th>
+                </tr>
+                <tr>
+                    <td>Lakers vs Suns</td>
+                    <td>28</td>
+                    <td>10</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>Lakers vs Clippers</td>
+                    <td>30</td>
+                    <td>12</td>
+                    <td>9</td>
+                </tr>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 360 Bets. All rights reserved.</p>
+    </footer>
+</body>
+</html>
